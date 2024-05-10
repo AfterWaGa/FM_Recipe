@@ -8,10 +8,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   [Solution URL](https://github.com/AfterWaGa/FM_Recipe)
+-   [Live Site URL](https://afterwaga.github.io/FM_Recipe/)
 
 ## Author
 
--   Website - [Add your name here](https://www.your-site.com)
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+-   [Website](https://github.com/AfterWaGa)
+-   [Frontend Mentor @AfterWaGa](https://www.frontendmentor.io/profile/AfterWaGa)
