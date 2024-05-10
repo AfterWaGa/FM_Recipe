@@ -31,8 +31,9 @@ body {
     background-color: #fff;
     width: 100%;
     max-width: 736px;
-    margin: 50px auto;
+    margin: 123px auto;
     padding: 40px;
+    border-radius: 24px;
 }
 
 @media (max-width: 480px) {
